@@ -1,0 +1,26 @@
+# generic
+.env*
+!.env-dist
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+# terraform
+.terraform
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
+secrets.tfvars
+*.auto.tfvars
+.idea
+*.zip
+# node
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+jspm_packages/
