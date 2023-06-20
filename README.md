@@ -25,7 +25,7 @@ The folder structure of this project is as follows:
 Before starting you need to:
 
 - Install [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
-- Install [AWS CLI]
+- Install AWS CLI v2
 - Setup `.env` files according to your AWS profile
 
 ## Check the changes
